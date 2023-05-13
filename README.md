@@ -1,8 +1,6 @@
-# PocketParrotPro
+# PocketParrot Pro
 
-PocketParrot with tap-to-talk.
-
-Download APK [Here](https://github.com/cwncdnc/PocketParrotPro/raw/main/PocketParrotPro.apk)
+Download APK [Here](https://github.com/cwncdnc/PocketParrotPro/raw/main/PocketParrotPro2.apk)
 
 PocketParrot is a speaking A.I. "parrot" that knows 676 different words and phrases. 
 
